@@ -27,38 +27,37 @@ IP-Adressen Zusammengefasst
 
 
 # Clients
-Die Clients haben wir standartweise installiert. sie haben am Schluss vom DHCP-Server die IP-Adressen der Tabelle erhalten und wurden nicht statisch gesetzt, weshalb sich die Adressen eventuell ändern könnten. Sie können sich auch mit den anderen Geräten sauber pingen.
+Die Clients sind standardmässig installiert, sie haben die IP-Adressen aus der Tabelle vom DHCP-Server erhalten und sind nicht statisch eingestellt, d.h. die Adressen können sich ändern. Sie können auch mit den anderen Geräten sauber pingen.
 
 ---
 
 # Router
-Wir haben beim Router folgende Dinge konfiguriert:
+Wir haben den Router wie folgt konfiguriert:
 
 ![NAT-aktiviert](images/Bild1-router.png)
 
-
-Zuerst haben wir beim Router "NAT" aktiviert.
+Zuerst haben wir "NAT" auf dem Router aktiviert.
 
 ![DHCP-Funktion aktivieren](images/Bild2-router.png)
 
-Danach haben wir noch den DHCP-Sevrer aktiviert und folgendes eingestellt, dass die range von 192.168.1.50 bis 192.168.1.254 geht, damit beispielsweise Server, die mit statischen Adressen hinzugefügt werden, nicht ein Grund sind, die range zu ändern. Dies gilt nur für 47 weitere Server, was genug sein sollte, aber im Falle das man 48 Server oder Geräte hat, ist man gezwungen die range zu ändern.
+Dann haben wir noch den DHCP-Server aktiviert und so eingestellt, dass die range von 192.168.1.50 bis 192.168.1.254 geht, damit z.B. Server, die mit statischen Adressen hinzugefügt werden, kein Grund sind, die range zu ändern. Dies gilt nur für 47 zusätzliche Server, was ausreichend sein sollte, aber wenn man 48 Server oder Geräte hat, ist man gezwungen, die range zu ändern.
 
-Wie schon bei der IP-Adress Tabelle erwähnt, hat der Router die IP-Adresse 192.168.1.1.
+Wie bereits in der IP-Adressentabelle erwähnt, hat der Router die IP-Adresse 192.168.1.1.
 
 # Switch 
-Wir mussten bei der Switch nur das "Port mirroring" erlauben, was man im nächsten Bild sehen kann. Die Adresse ist wie bei der Tabelle 192.168.0.239
+Wir mussten nur das "Port Mirroring" auf dem Switch aktivieren, wie im folgenden Bild zu sehen ist. Die Adresse ist 192.168.0.239.
 
 ![Port-Einstellungen](images/Bild1-switch.png)
 
 
 
 # Server mit Webserver
-Diese Aufgabe konnte noch nicht erledigt werden
+Diese Aufgabe konnte noch nicht abgeschlossen werden
 
 
 
 # Fazit Arion
-
+Die Aufgaben waren spannend, ich konnte mein Wissen unter Beweis stellen und noch mehr lernen. Durch die Aufgaben konnte ich auch etwas von dem Wissen, das ich durch meine Krankheit verpasst habe, lernen und so mein Wissen erweitern. Leider hatten wir Probleme mit dem Server, da er kein Internet wollte, aber mit der Hilfe von Frank konnten wir das lösen.
 
 ---
 
@@ -77,5 +76,5 @@ Diese Aufgabe konnte noch nicht erledigt werden
 ---
 
 # Fazit Raphael
-Raphael war leider bei der Umsetzung der Aufgaben nicht anwesend, weshalb er keinen Fazit schreiben kann.
+Raphael war bei der Durchführung der Aufgaben leider nicht anwesend, so dass er keine Schlussbemerkungen machen kann.
 
