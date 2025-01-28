@@ -62,11 +62,12 @@ Die Aufgaben waren spannend, ich konnte mein Wissen unter Beweis stellen und noc
 ---
 
 # Fazit Kaveen
+Der Auftrag hat mir sehr viel Spass gemacht. Aber ich hatte Probleme mit dem Verbinden des Servers mit unserem Netzwerk, aber danach hatten wir das hingekriegt. Ich freue mich auf weitere Gruppenaufträge.
 
 ---
 
 # Fazit Kevin
-
+Die Aufgaben waren nicht nur interessant, sondern gaben mir die Gelegenheit, mein Wissen anzuwenden und zusätzlich neue Erkenntnisse zu gewinnen. Besonders hilfreich war, dass ich durch die Übungen auch Themen nachholen konnte und so meine Kenntnisse weiter vertiefen konnte. Zwar gab es technische Schwierigkeiten mit dem Sever, was später behoben werden konnte.
 
 ---
 
