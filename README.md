@@ -16,8 +16,8 @@ IP-Adressen Zusammengefasst
 |---------------------------|-------------------|----------------------------------------------------------------|
 | Router (DHCP)             | 192.168.0.1       | Gerät, das DHCP-Dienste anbietet, DNS: 8.8.8.8, Gateway: 192.168.0.1 |
 | Server (Webserver)        | 192.168.0.2       | Server, der Webdienste bereitstellt                            |
-| Client 1                  | 192.168.0.3       | Vom DHCP zugewiesene IP-Adresse                                |
-| Client 2                  | 192.168.0.4       | Vom DHCP zugewiesene IP-Adresse                                |
+| Win11-Client                  | 192.168.0.3       | Vom DHCP zugewiesene IP-Adresse                                |
+| Ubuntu-Client                  | 192.168.0.4       | Vom DHCP zugewiesene IP-Adresse                                |
 | Switch                    | 192.168.0.239     | Management-IP der Switch                                       |
 | Generelle Netzadresse     | 192.168.0.0       | Netzadresse des Subnetzes                                      |
 | Subnetzmaske              | 255.255.255.0     | Ermöglicht 254 Hosts pro Subnetz (2 Adressen reserviert)       |
