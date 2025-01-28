@@ -15,7 +15,7 @@ IP-Adressen Zusammengefasst
 | **Bezeichnung**           | **IP-Adresse**    | **Erläuterung**                                                |
 |---------------------------|-------------------|----------------------------------------------------------------|
 | Router (DHCP)             | 192.168.0.1       | Gerät, das DHCP-Dienste anbietet, DNS: 8.8.8.8, Gateway: 192.168.0.1 |
-| Server (Webserver)        | 192.168.0.2       | Server, der Webdienste bereitstellt                            |
+| Server (Webserver), Raphi-Server        | 192.168.0.2       | Server, der Webdienste bereitstellt                            |
 | Win11-Client                  | 192.168.0.3       | Vom DHCP zugewiesene IP-Adresse                                |
 | Ubuntu-Client                  | 192.168.0.4       | Vom DHCP zugewiesene IP-Adresse                                |
 | Switch                    | 192.168.0.239     | Management-IP der Switch                                       |
