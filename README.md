@@ -52,9 +52,9 @@ Wir mussten nur das "Port Mirroring" auf dem Switch aktivieren, wie im folgenden
 
 
 # Server mit Webserver
-Diese Aufgabe konnte noch nicht abgeschlossen werden
+Für das Installieren des Linux Servers brauchte ich einen USB Stick, der richtig formatiert ist. Mit Rufus ging das. Das Einrichten ist an sich nicht schwer, jedoch darf man nicht den Namenserver vergessen. Ein guter Wert wäre 9.9.9.9. Die Einrichtung ist nicht schwer. Da es ein Server ist, sollte man eine statische IP-Adresse reintun. Der Befehl für die Installation lautet wie folgt: "sudo apt install apache2".
 
-
+---
 
 # Fazit Arion
 Die Aufgaben waren spannend, ich konnte mein Wissen unter Beweis stellen und noch mehr lernen. Durch die Aufgaben konnte ich auch etwas von dem Wissen, das ich durch meine Krankheit verpasst habe, lernen und so mein Wissen erweitern. Leider hatten wir Probleme mit dem Server, da er kein Internet wollte, aber mit der Hilfe von Frank konnten wir das lösen.
@@ -72,7 +72,7 @@ Die Aufgaben waren nicht nur interessant, sondern gaben mir die Gelegenheit, mei
 ---
 
 # Fazit Leandro
-
+Die Durchführung des Projekts hat mir sehr viel Spass gemacht und ich fande meine Gruppe sehr lustig und motiviert, da wir es gut und schnell lösen konnten, wir hatten nur ein paar Probleme, aber sonst war es kein Problem. Ich war verantwortlich für den Router und den Switch. Mir hat der Tag sehr viel Spass gemacht und ich konnte sehr viel lernen.
 
 ---
 
