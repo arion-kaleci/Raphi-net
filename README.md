@@ -34,12 +34,12 @@ Die Clients haben wir standartweise installiert. sie haben am Schluss vom DHCP-S
 # Router
 Wir haben beim Router folgende Dinge konfiguriert:
 
-![NAT-aktiviert](images/Bild1-router)
+![NAT-aktiviert](images/Bild1-router.png)
 
 
 Zuerst haben wir beim Router "NAT" aktiviert.
 
-![DHCP-Funktion aktivieren](images/Bild2-router)
+![DHCP-Funktion aktivieren](images/Bild2-router.png)
 
 Danach haben wir noch den DHCP-Sevrer aktiviert und folgendes eingestellt, dass die range von 192.168.1.50 bis 192.168.1.254 geht, damit beispielsweise Server, die mit statischen Adressen hinzugefügt werden, nicht ein Grund sind, die range zu ändern. Dies gilt nur für 47 weitere Server, was genug sein sollte, aber im Falle das man 48 Server oder Geräte hat, ist man gezwungen die range zu ändern.
 
@@ -48,7 +48,7 @@ Wie schon bei der IP-Adress Tabelle erwähnt, hat der Router die IP-Adresse 192.
 # Switch 
 Wir mussten bei der Switch nur das "Port mirroring" erlauben, was man im nächsten Bild sehen kann. Die Adresse ist wie bei der Tabelle 192.168.0.239
 
-![Port-Einstellungen](images/Bild1-switch)
+![Port-Einstellungen](images/Bild1-switch.png)
 
 
 
